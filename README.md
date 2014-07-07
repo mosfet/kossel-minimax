@@ -2,7 +2,7 @@
 
 Based on Johan's Kossel Mini @ github.com/jcrocholl/kossel/
 
-Completely remodeled in Solidworks for Misumi 2020 and 2040 extrusions and a much bigger print area (300mm diameter print plate, 1000mm overall height)
+Completely remodeled in Solidworks for Misumi 2020 and 2040 extrusions and a much bigger print area (300mm diameter print plate, ~440mm cylindrical print height, ~500mm tower print height, 1000mm overall height)
 
 **Basic BOM:**
 
