@@ -8,10 +8,11 @@ Completely remodeled in Solidworks for Misumi 2020 and 2040 extrusions and a muc
 
 For belts, thid design uses 2020mm GT2 belts for each axis, 6060mm total, get a bit more to be safe.
 
-Misumi aluminum exutrusions:
-* 2020 (length 420mm qty3 and length 1000mm qty3) (http://us.misumi-ec.com/vona2/detail/110302368740/ Choose Carefully!)
-* 2040 (length 420mm qty3)  (http://us.misumi-ec.com/vona2/detail/110302368830/ - Choose Carefully!)
+* Aluminum Extrusion 2020 (length 420mm qty3 and length 1000mm qty3) (http://us.misumi-ec.com/vona2/detail/110302368740/ Choose Carefully!)
+* Aluminum Extrusion 2040 (length 420mm qty3)  (http://us.misumi-ec.com/vona2/detail/110302368830/ - Choose Carefully!)
 * Bag of extrusion nuts (qty1) HNKK5-3 (http://us.misumi-ec.com/vona2/detail/110302246940/)
+* 300mm diameter round glass plate (such as http://www.amazon.com/Clear-Borosilicate-Glass-Printers-Round/dp/B00GRHFIC0)
+
 
 Kossel Mini fasteners BOM, bearings BOM, 3x Nema  17 motors for motion, bowden extruder of your choice with enough bowden tube
 
