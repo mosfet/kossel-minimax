@@ -19,7 +19,7 @@ Kossel Mini fasteners BOM, bearings BOM, 3x Nema  17 motors for motion, bowden e
 
 **The design has 3 different types of vertical movement types available:**
 
-1. *Steel Linear bearing:* MGN 12H rails and bearing cartridges (like http://www.ebay.com/itm/161304571537 but 800mm long)
+1. *Steel Linear bearing:* MGN 12H rails and bearing cartridges, 600mm (like http://www.ebay.com/itm/161304571537)
   - Pros: superior rigidity, longevity, and backlash tolerances. Not a lot of material to print. 
   - Cons: expensive (over 150$USD for three 800mm long rails with bearings)
  
